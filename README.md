@@ -1,5 +1,5 @@
 # Instagram_Photo_Scraping
-Scraping Instagram using Python libraries like Selenium,BeautifulSoup,Requests,Webdriver.
+Scraping Instagram Photos using Python libraries like Selenium,BeautifulSoup,Requests,Webdriver.
 
 In this project I have scrapped photos from instagram.
 
